@@ -1,3 +1,3 @@
 # Test
 just another repository
-hi man
+hi
